@@ -10,9 +10,9 @@
 - <b>Amor Vincent Omnia Project </b>
   - [TTRPG](https://locrian-menu-33c.notion.site/M-VI-M-I-f1ba0da174184dc7bae5612a0908322a)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
-- Lethal Company Funny Moments Compilation (https://www.youtube.com/watch?v=c9_qnu8C_YE&t=174s).
+- Lightweight Directory Access Protocol (LDAP) Explained (https://youtu.be/kIdMq18NNLU?si=u5CXAgQGc5_2tBZv).
 - We try a Call of Duty Map Recreated in Halo Infinite (https://www.youtube.com/watch?v=-GbBKhaP2Tc&t=89s).
 
 <h2>📚 Certifications</h2>
@@ -22,10 +22,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CharlesLuhmann | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="CharlesLuhmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/@justrecklessproductions
+[youtube]: https://www.youtube.com/watch?v=kIdMq18NNLU
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
