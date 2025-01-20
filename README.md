@@ -5,15 +5,9 @@
 - <b>Honey Net Azure Cloud Mini SOC </b>
   - [SOC utilizing: Azure, Microsoft Sentinel (SIEM), Microsoft Defender for Cloud, Virtual Machines, NIST](https://github.com/CharlesLuhmann/Honey-Net-Cloud-SOC)
 
-<h2>✒️ TTG Projects:</h2>
-
-- <b>Amor Vincent Omnia Project </b>
-  - [TTRPG](https://locrian-menu-33c.notion.site/M-VI-M-I-f1ba0da174184dc7bae5612a0908322a)
-
 <h2>📺 YouTube Videos</h2>
 
 - Lightweight Directory Access Protocol (LDAP) Explained (https://youtu.be/kIdMq18NNLU?si=u5CXAgQGc5_2tBZv).
-- We try a Call of Duty Map Recreated in Halo Infinite (https://www.youtube.com/watch?v=-GbBKhaP2Tc&t=89s).
 
 <h2>📚 Certifications</h2>
 
